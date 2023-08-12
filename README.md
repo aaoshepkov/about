@@ -1,6 +1,6 @@
 <h1 align="center">Привет всем! Меня зовут <a href="https://daniilshat.ru/" target="_blank">Саша</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+<h3 align="center">Я - тестировщие</h3>
 
 ##  В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
 
