@@ -4,7 +4,7 @@
 
 ##  В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
 
-**Навыки и технологии Jira, qase.io, SQL, Postman, Fiddler, Swagger, Trello, SoapUI, Charles, Git, Chrome DevTools.**
+**Навыки и технологии Jira, Qase.io, Postgre SQL, Postman, Fiddler, Swagger, Trello, SoapUI, Charles, Chrome DevTools.**
 
 # Проекты.  
 
