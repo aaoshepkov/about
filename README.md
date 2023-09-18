@@ -4,7 +4,8 @@
 
 ##  В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
 
-https://user-images.githubusercontent.com/125588671/268489095-ca8656df-08b4-4f86-9cd5-1fe413ffbd10.png
+![]https://user-images.githubusercontent.com/125588671/268489095-ca8656df-08b4-4f86-9cd5-1fe413ffbd10.png
+
 **Навыки и технологии Jira, Qase.io, Postgre SQL, Postman, Fiddler, Swagger, Trello, SoapUI, Charles, Chrome DevTools.**
 
 # Проекты.  
